@@ -1,0 +1,6 @@
+Accident_ID,City,Hour,Severity,Vehicle_Type
+A001,Bangalore,18,High,Two-Wheeler
+A002,Bangalore,9,Medium,Car
+A003,Pune,21,High,Truck
+A004,Pune,14,Low,Two-Wheeler
+A005,Delhi,19,High,Car
